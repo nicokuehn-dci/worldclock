@@ -64,7 +64,7 @@ Contributions are welcome! If you'd like to improve this project, feel free to s
 
 For any questions or feedback, feel free to reach out via GitHub or email:
 
-- GitHub: [yourusername](https://github.com/nicokuehn-dci)
+- GitHub: [nicokuehn-dci](https://github.com/nicokuehn-dci)
 - Email: nico.kuehn@dci-student.org
 
 ---
