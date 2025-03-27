@@ -49,7 +49,7 @@ text
 
 ## Screenshots
 
-![World Clock Screenshot](https://via.placeholder.com/400x250)  
+![World Clock Screenshot](https://vscode.dev/github/nicokuehn-dci/worldclock/blob/main/worldclock_screeshot.png)  
 *(Replace this placeholder with an actual screenshot of your application)*
 
 ## License
