@@ -22,7 +22,7 @@ To run the application on your local machine:
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/world-clock.git
+git clone https://github.com/nicokuehn-dci/worldclock
 
 text
 2. Navigate to the project directory:
