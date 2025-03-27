@@ -50,7 +50,7 @@ text
 ## Screenshots
 
 ![World Clock Screenshot](https://github.com/nicokuehn-dci/worldclock/blob/main/worldclock_screeshot.png)  
-*(Replace this placeholder with an actual screenshot of your application)*
+
 
 ## License
 
